@@ -4,8 +4,8 @@ From GerritHub
 
 Added a line from GerritHub
 
-server line 5
-server line 2
+local change, line 5
+local line 2
 * Server line 3
 line 7
 
