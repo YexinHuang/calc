@@ -14,6 +14,7 @@ server line 8
 line 1 from dev2
 line 1 from dev1
 from jira 1001 local line 9
+new line in jira 1001
 
 # server line 1
 # server line 2
