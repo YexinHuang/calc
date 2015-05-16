@@ -8,6 +8,7 @@ local change, line 5
 local line 2
 * Server line 3
 line 7
+local line 8
 server line 8
 
 line 1 from dev2
