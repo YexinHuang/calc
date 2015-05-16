@@ -5,6 +5,7 @@ From GerritHub
 Added a line from GerritHub
 
 line 5
+Server line 2
 line 7
 
 line 1 from dev2
