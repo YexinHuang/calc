@@ -4,12 +4,12 @@ From GerritHub
 
 # Added a line from GerritHub
 
-# local change, line 5
-# local line 2
-# Server line 3
-# line 7
-# local line 8
-# server line 8
+# line 1
+# line 2
+# line 3
+# line 4
+# line 5
+# line 6
 
 # line 1 from dev2
 # line 1 from dev1
