@@ -4,10 +4,14 @@ public class Test {
     }
 
     public void test1() {
-        // local no conflict
+        // 
     }
 
     public void test2() {
-        // local -  conflict
+        // 
+    }
+    
+    public void test3() {
+        // 
     }
 }
