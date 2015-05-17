@@ -7,5 +7,10 @@ public class Test {
     }
 
     public void test2() {
+        // server - conflict
+    }
+    
+    public void test3() {
+        // server
     }
 }
