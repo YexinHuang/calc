@@ -4,11 +4,11 @@ public class Test {
     }
 
     public void test1() {
-        // 
+        // local
     }
 
     public void test2() {
-        // 
+        // local
     }
     
     public void test3() {
