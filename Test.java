@@ -8,10 +8,10 @@ public class Test {
     }
 
     public void test2() {
-        // 
+        // server
     }
     
     public void test3() {
-        // 
+        // server
     }
 }
