@@ -14,4 +14,7 @@ public class Test {
     public void test3() {
         // server
     }
+    public void test3() {
+        // server
+    }
 }
